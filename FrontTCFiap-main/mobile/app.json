@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Tech Challenge Mobile",
+    "slug": "tech-challenge-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.techchallenge.mobile"
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
